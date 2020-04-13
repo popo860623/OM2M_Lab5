@@ -1,0 +1,2 @@
+
+            movie.setSpeed(30)
